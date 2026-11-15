@@ -1,0 +1,6 @@
+{
+  "name": "자산매니저 — 무료 투자 시뮬레이터",
+  "description": "동일한 투자 원금과 투자 성향에서도 미래 결과가 어떻게 달라지는지 1회 주사위 시뮬레이션과 10,000회 몬테카를로 시뮬레이션으로 체험하는 무료 금융교육 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
